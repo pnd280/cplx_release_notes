@@ -4,11 +4,13 @@ Release date: _14th June 2024_
 - **NEW** | **EXPERIMENTAL**: Sticky thread message toolbar.
     - "**Thread Query Markdown**" is now merged with this setting.
 - **NEW**: Added code block toolbar to markdown query.
-- **IMPROVE**: Diff Viewer now supports more common languages.
-- **CHANGES**:
-    - **Removed** message auto scroll: buggy/needs rework.
+- **IMPROVE**: Improved update notifications.
+- **IMPROVE**: Diff Viewer now supports syntax highlighting for:
+    - Java, Markup, CSS, CLike, Bash, C, Cpp, Gradle, GraphQL, JSON, Makefile, Markdown, PowerShell, Rust, Sass, SCSS, SQL, Kotlin, Haskell, PHP, Apex.
 - **FIX**: Unintentionally inject scripts into Perplexity's subdomains.
 - **FIX**: Fixed a bug where only empty visual column of the first message query is collapsed (PPLX's html structure changed).
+- **CHANGES**:
+    - **Removed** message auto scroll: already implemented on Perplexity.
 
 ## v0.0.0.11
 Release date: _10th June 2024_
