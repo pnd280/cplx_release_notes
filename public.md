@@ -1,3 +1,19 @@
+## v0.0.0.13
+
+Release date: _18th June 2024_
+
+- **NEW**: Block Perplexity's telemetry.
+- **IMPROVE**: Reduced layout shift when open a floating element (Removed all focus guards).
+- **IMPROVE**: Slightly improved performance in long threads.
+- **FIX**: Fixed infinite Cloudflare loop check.
+- **FIX**: Thread query format switch now correctly shown on the toolbar. Notice that the switch will not be shown for query that have no markdown formatting. 
+- **FIX**: Fixed a bug where Pro search UI briefly flashes when it's already turned off.
+- **FIX**: Fixed a bug where "Collapse empty thread's visual columns" doesn't consistently work.
+- **FIX**: Removed css injections from API pages.
+- **FIX**: Removed unintended "zeros" at the bottom of the home page.
+
+Thanks @MyDpi, @Redactado.
+
 ## v0.0.0.12
 
 Release date: _16th June 2024_
