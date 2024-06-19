@@ -1,3 +1,12 @@
+## v0.0.0.14 (Hotfix)
+
+_Release date: 19th June, 2024_
+
+- **FIX**: Fixed a bug where unable to set default text/image model.
+- **FIX**: Fixed redirection to changelog page.
+
+Thanks @Redactado.
+
 ## v0.0.0.13
 
 Release date: _18th June 2024_
