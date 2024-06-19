@@ -1,3 +1,11 @@
+## v0.0.0.15 (Hotfix)
+
+_Release date: 19th June, 2024_
+
+- **FIX**: Fixed "Copy without citations" for multi-steps Pro search answers.
+
+Thanks @sifu.
+
 ## v0.0.0.14 (Hotfix)
 
 _Release date: 19th June, 2024_
