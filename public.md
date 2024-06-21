@@ -1,8 +1,21 @@
+## v0.0.0.16
+
+_Release date: 21st June, 2024_
+
+-   **IMPROVE**: Wrap `plain-text` block by default.
+-   **FIX**: Sticky thread message toolbar:
+    -   Overlaps query input box.
+    -   Added **Share** option in shareable thread.
+    -   Remove unnecessary buttons in non-editable and non-shareable thread.
+-   **FIX**: No contrast on light theme table header color.
+
+Thanks @brknclock1215, @samxiaowastaken.
+
 ## v0.0.0.15 (Hotfix)
 
 _Release date: 19th June, 2024_
 
-- **FIX**: Fixed "Copy without citations" for multi-steps Pro search answers.
+-   **FIX**: Fixed "Copy without citations" for multi-steps Pro search answers.
 
 Thanks @sifu.
 
@@ -10,8 +23,8 @@ Thanks @sifu.
 
 _Release date: 19th June, 2024_
 
-- **FIX**: Fixed a bug where unable to set default text/image model.
-- **FIX**: Fixed redirection to changelog page.
+-   **FIX**: Fixed a bug where unable to set default text/image model.
+-   **FIX**: Fixed redirection to changelog page.
 
 Thanks @Redactado.
 
@@ -19,15 +32,15 @@ Thanks @Redactado.
 
 Release date: _18th June 2024_
 
-- **NEW**: Block Perplexity's telemetry.
-- **IMPROVE**: Reduced layout shift when open a floating element (Removed all focus guards).
-- **IMPROVE**: Slightly improved performance in long threads.
-- **FIX**: Fixed infinite Cloudflare loop check.
-- **FIX**: Thread query format switch now correctly shown on the toolbar. Notice that the switch will not be shown for query that have no markdown formatting. 
-- **FIX**: Fixed a bug where Pro search UI briefly flashes when it's already turned off.
-- **FIX**: Fixed a bug where "Collapse empty thread's visual columns" doesn't consistently work.
-- **FIX**: Removed css injections from API pages.
-- **FIX**: Removed unintended "zeros" at the bottom of the home page.
+-   **NEW**: Block Perplexity's telemetry.
+-   **IMPROVE**: Reduced layout shift when open a floating element (Removed all focus guards).
+-   **IMPROVE**: Slightly improved performance in long threads.
+-   **FIX**: Fixed infinite Cloudflare loop check.
+-   **FIX**: Thread query format switch now correctly shown on the toolbar. Notice that the switch will not be shown for query that have no markdown formatting.
+-   **FIX**: Fixed a bug where Pro search UI briefly flashes when it's already turned off.
+-   **FIX**: Fixed a bug where "Collapse empty thread's visual columns" doesn't consistently work.
+-   **FIX**: Removed css injections from API pages.
+-   **FIX**: Removed unintended "zeros" at the bottom of the home page.
 
 Thanks @MyDpi, @Redactado.
 
