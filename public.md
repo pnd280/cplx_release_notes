@@ -1,3 +1,10 @@
+## v0.0.0.17
+
+_Release date: 22nd June, 2024_
+
+- **IMPROVE**: Significantly improve `Tooltips` performance on long threads.
+- **FIX**: Update `Claude 3.5 Sonnet` model name.
+
 ## v0.0.0.16
 
 _Release date: 21st June, 2024_
