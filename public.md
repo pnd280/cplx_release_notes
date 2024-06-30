@@ -1,9 +1,15 @@
+## v0.0.0.18 (Hotfix)
+
+_Release date: 30th June, 2024_
+
+-   **FIX**: Fixed a bug where selectors are not showing on the query box (due to Perplexity's html structure change).
+
 ## v0.0.0.17
 
 _Release date: 22nd June, 2024_
 
-- **IMPROVE**: Significantly improve `Tooltips` performance on long threads.
-- **FIX**: Update `Claude 3.5 Sonnet` model name.
+-   **IMPROVE**: Significantly improve `Tooltips` performance on long threads.
+-   **FIX**: Update `Claude 3.5 Sonnet` model name.
 
 ## v0.0.0.16
 
