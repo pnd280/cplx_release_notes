@@ -1,3 +1,9 @@
+## v0.0.0.19 (Hotfix)
+
+_Release date: 24th July, 2024_
+
+-   **NEW**: Added `Llama 3.1 405B` model option.
+
 ## v0.0.0.18 (Hotfix)
 
 _Release date: 30th June, 2024_
