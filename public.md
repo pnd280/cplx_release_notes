@@ -1,3 +1,11 @@
+## v0.0.0.20 (Hotfix)
+
+_Release date: 1st Aug, 2024_
+
+- **FIX**: Adopt new user settings api endpoint.
+
+Special thanks to @sneakyf1shy.
+
 ## v0.0.0.19 (Hotfix)
 
 _Release date: 24th July, 2024_
