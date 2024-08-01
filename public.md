@@ -1,8 +1,15 @@
+## v0.0.0.21 (Hotfix)
+
+_Release date: 1st Aug, 2024_
+
+-   **FIX**: Selectors won't load if payment method is not Stripe.  
+    _Why detect subscription status? To disable selectors for free users._
+
 ## v0.0.0.20 (Hotfix)
 
 _Release date: 1st Aug, 2024_
 
-- **FIX**: Adopt new user settings api endpoint.
+-   **FIX**: Adopt new user settings api endpoint.
 
 Special thanks to @sneakyf1shy.
 
