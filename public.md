@@ -1,3 +1,29 @@
+# Your Perplexity.ai user interface MUST BE in English (en-US). And please turn off any 3rd party translation extenstions/plugins (including browser setttings).
+
+Consider giving a star ⭐ on [Github](https://github.com/pnd280/complexity).
+
+💖 Support the development via [Ko-fi](https://ko-fi.com/pnd280) or [Paypal](https://paypal.me/pnd280).
+
+## v0.0.1.0
+
+_Release date: 24th Aug, 2024_
+
+Complexity is now publicly available on the Chrome Web Store and Mozilla Add-ons.
+
+-   **NEW**: Introducing **Canvas** - an interactive code preview.
+-   **NEW**: Paste (very) long text into the query box is now no longer create a file.
+-   **NEW**: Drop file to upload within thread.
+
+-   **IMPROVE**: Significantly improved the overall performance (especially long threads).
+-   **IMPROVE**: Significantly reduce layout shift while generating new message.
+
+-   **FIX**: Search params will now be respected and work consistently.
+-   **FIX**: Fixed various contrast issues (Light + Dark theme).
+
+[Full Issue References](https://discord.com/channels/1245377426331144304/1251725782561193994)
+
+Thanks @Dailyfocus, @brknclck, @paradroid/dayman, @`<Code/>`, @Asura, @Hannah, @somerandomedude, @Lacracotte, @tra1l_blaz3r, @Neon, @moistcornflake, @MyDpi.
+
 ## v0.0.0.21 (Hotfix)
 
 _Release date: 1st Aug, 2024_
